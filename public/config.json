@@ -1,5 +1,5 @@
-{
-    "key": "03fc2e9d-4f03-474f-bfaa-d465555d5aad",
+{   "workflowApiVersion": "1.1",
+    "key": "9083ef35-6454-4360-b406-9ef7360053c8",
     "metaData": {
        "icon": "images/iconSmall.png",
        "category": "message"
@@ -29,9 +29,9 @@
             "timeout": 2000
         }
     },
-    "workflowApiVersion": "1.1",
+    
     "configurationArguments": {
-      "applicationExtensionKey": "03fc2e9d-4f03-474f-bfaa-d465555d5aad",
+      "applicationExtensionKey": "9083ef35-6454-4360-b406-9ef7360053c8",
        "save": {
            "url": "https://sfmc-project.herokuapp.com/save",
             "verb": "POST",
