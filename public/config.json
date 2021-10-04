@@ -20,7 +20,7 @@
                 }               
             ],
             "outArguments": [],
-            "url": "https://sfmc-project.herokuapp.com/journey/execute",
+            "url": "https://sfmc-project.herokuapp.com/execute",
             "verb": "POST",
             "body": "",
             "format": "json",
