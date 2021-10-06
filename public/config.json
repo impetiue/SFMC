@@ -1,4 +1,5 @@
 {   "workflowApiVersion": "1.1",
+    "key": "9083ef35-6454-4360-b406-9ef7360053c8",
     "metaData": {
        "icon": "images/iconSmall.png",
        "category": "message"
@@ -35,7 +36,6 @@
            "url": "https://sfmc-project.herokuapp.com/journeybuilder/save",
             "verb": "POST",
             "body": "",
-            "format": "json",
             "useJwt": false,
             "timeout": 2000
        },
@@ -43,7 +43,6 @@
            "url": "https://sfmc-project.herokuapp.com/journeybuilder/publish",
             "verb": "POST",
             "body": "",
-            "format": "json",
             "useJwt": false,
             "timeout": 2000
        },
@@ -51,7 +50,6 @@
            "url": "https://sfmc-project.herokuapp.com/journeybuilder/validate",
             "verb": "POST",
             "body": "",
-            "format": "json",
             "useJwt": false,
             "timeout": 2000
        },
@@ -59,7 +57,6 @@
            "url": "https://sfmc-project.herokuapp.com/journeybuilder/stop",
             "verb": "POST",
             "body": "",
-            "format": "json",
             "useJwt": false,
             "timeout": 2000
        }
