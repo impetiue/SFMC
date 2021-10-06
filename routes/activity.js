@@ -82,7 +82,8 @@ exports.edit = function (req, res) {
 //     logData(req);
 //     res.send(200, 'Save');
 // };
-exports.save = async (req, res) => {
+exports.save = function (req, res)  {
+    logData(req);
   res.status(200).send({
     status: 'Save',
   });
